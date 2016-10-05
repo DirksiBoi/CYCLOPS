@@ -1,2 +1,2 @@
-# CYCLOPS
-Research Project Documentation goes here.
+# TheSHaDOW
+Documentation for the Trojan Horse TheSHaDOW.
